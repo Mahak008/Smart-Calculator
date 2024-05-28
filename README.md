@@ -57,3 +57,6 @@ The calculator supports various voice commands for arithmetic operations and fun
 - **Division**: "divide 20 by 4"
 - **LCM**: "LCM of 15 and 20"
 - **HCF**: "HCF of 18 and 24"
+
+## Screenshots
+
