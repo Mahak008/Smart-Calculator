@@ -47,12 +47,6 @@ Run the Python script to start the calculator:
 python smart_calculator.py
 ```
 
-## GUI Components
-
-- **Entry Field**: A large entry field to display the input and result.
-- **Buttons**: A set of buttons for digits, operations, and functions.
-- **Microphone Button**: A button to activate speech recognition for voice commands.
-
 ## Voice Commands
 
 The calculator supports various voice commands for arithmetic operations and functions. Here are some examples:
